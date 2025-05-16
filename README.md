@@ -54,8 +54,8 @@ Senha: admin
 
 ## ⚙️ Tecnologias Utilizadas
 
-* Node.js
-* Express
-* RabbitMQ
-* Docker Compose
+* Node.js v20.10.0
+* Express 5.1.0
+* RabbitMQ 3.13.7
+* Docker Compose v2.23.3-desktop.2
 
