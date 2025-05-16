@@ -2,6 +2,8 @@
 
 Este é um sistema simples para processamento de pedidos em uma arquitetura distribuída, utilizando comunicação assíncrona com RabbitMQ para garantir resiliência e tolerância a falhas.
 
+## 🚀 Arquitetura
+![Comunicação assicrona](https://github.com/user-attachments/assets/04cfe1db-c450-4cb5-98f1-aed94948dba3)
 
 
 ## 🚀 Como Executar
