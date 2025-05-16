@@ -4,15 +4,7 @@ Este é um sistema simples para processamento de pedidos em uma arquitetura dist
 
 
 ## 🗂 Estrutura do Projeto
-├── api-pedidos/
-│   ├── index.js
-│   └── package.json
-│
-├── processador-pedidos/
-│   ├── processador.js
-│   └── package.json
-│
-└── docker-compose.yml
+![image](https://github.com/user-attachments/assets/a6a93d79-5094-4ada-85d3-8e95bd3c325a)
 
 
 ## 🚀 Como Executar
